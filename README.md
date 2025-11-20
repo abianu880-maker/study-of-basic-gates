@@ -90,13 +90,11 @@ endmodule
 **Logic symbol & Truthtable:**
 ![Uploading Screenshot 2025-11-20 215610.png…]()
 
-
-
-
 **RTL realization Output:**
 
 **RTL**
 ![Uploading Screenshot 2025-11-20 215624.png…]()
+
 
 **Result:**
 
