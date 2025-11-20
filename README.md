@@ -88,13 +88,15 @@ assign xor_out = a ^ b;
 assign xnor_out = ~(a ^ b);
 endmodule
 **Logic symbol & Truthtable:**
-logic_diagram.pdf
+<img width="1920" height="1020" alt="Screenshot 2025-11-20 215610" src="https://github.com/user-attachments/assets/29ba1e5b-9eb3-4155-9dfe-28af670626e6" />
+
 
 
 **RTL realization Output:**
 
 **RTL**
-output.pdf
+<img width="1920" height="1020" alt="Screenshot 2025-11-20 215624" src="https://github.com/user-attachments/assets/3b3a2782-592e-44da-abba-c1a91e0c5fe2" />
+
 
 
 
