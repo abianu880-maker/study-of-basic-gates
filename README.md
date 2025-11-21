@@ -68,25 +68,45 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
  Developed by:Abilasha R
  RegisterNumber: 25015770
+
+
+
+ 
  module logic_gates (
-    input wire a,   
-    input wire b,    
+    input wire a,  
+    
+    input wire b, 
+    
     output wire and_out,
+    
     output wire or_out,
+    
     output wire not_out, 
+    
     output wire nand_out,
+    
     output wire nor_out,
+    
     output wire xor_out,
+    
     output wire xnor_out
+    
 );
 
-assign and_out = a & b;     
-assign or_out = a | b;       
-assign not_out = ~a;         
-assign nand_out = ~(a & b); 
-assign nor_out = ~(a | b);  
-assign xor_out = a ^ b;     
+assign and_out = a & b; 
+
+assign or_out = a | b;
+
+assign not_out = ~a; 
+
+assign nand_out = ~(a & b);
+
+assign nor_out = ~(a | b);
+
+assign xor_out = a ^ b;  
+
 assign xnor_out = ~(a ^ b);
+
 endmodule
 **Logic symbol & Truthtable:**
 <img width="1920" height="1020" alt="Screenshot 2025-11-20 215610" src="https://github.com/user-attachments/assets/29ba1e5b-9eb3-4155-9dfe-28af670626e6" />
@@ -96,7 +116,8 @@ endmodule
 **RTL realization Output:**
 
 **RTL**
-<img width="1920" height="1020" alt="Screenshot 2025-11-20 215624" src="https://github.com/user-attachments/assets/3b3a2782-592e-44da-abba-c1a91e0c5fe2" />
+<img width="411" height="421" alt="Screenshot 2025-11-21 184535" src="https://github.com/user-attachments/assets/b1abcb76-e34c-46fa-926d-38c5f52263e8" />
+
 
 
 
