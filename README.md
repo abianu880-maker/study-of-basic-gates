@@ -109,7 +109,7 @@ assign xnor_out = ~(a ^ b);
 
 endmodule
 **Logic symbol & Truthtable:**
-<img width="1920" height="1020" alt="Screenshot 2025-11-20 215610" src="https://github.com/user-attachments/assets/29ba1e5b-9eb3-4155-9dfe-28af670626e6" />
+<img width="1495" height="839" alt="Screenshot 2025-11-20 230917" src="https://github.com/user-attachments/assets/0d90007a-951d-4c31-bda2-605b5c7ad095" />
 
 
 
